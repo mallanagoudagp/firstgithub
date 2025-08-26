@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FraudGuard</string>
+    <string name="monitoring_active">MONITORING ACTIVE</string>
+    <string name="monitoring_inactive">MONITORING INACTIVE</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="stop_monitoring">Stop Monitoring</string>
+    <string name="run_test">Run Test Scenario</string>
+    <string name="threat_level_unknown">Threat Level: UNKNOWN</string>
+    <string name="overall_score_zero">Overall Score: 0.000</string>
+    <string name="system_status">System Status</string>
+    <string name="agent_status">Agent Status</string>
+    <string name="activity_logs">Activity Logs</string>
+    <string name="about_fraudguard">About FraudGuard</string>
+    <string name="logs_placeholder">Logs will appear here...</string>
+    
+    <!-- Security Messages -->
+    <string name="security_verification_required">Security Verification Required</string>
+    <string name="account_locked">Account Locked</string>
+    <string name="contact_support">Contact Support</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="cancel">Cancel</string>
+    <string name="close_app">Close App</string>
+    
+    <!-- Agent Names -->
+    <string name="touch_agent">TouchAgent</string>
+    <string name="typing_agent">TypingAgent</string>
+    <string name="usage_agent">UsageAgent</string>
+    <string name="movement_agent">MovementAgent</string>
+    <string name="honeypot_agent">HoneypotAgent</string>
+    
+    <!-- Status -->
+    <string name="active">ACTIVE</string>
+    <string name="inactive">INACTIVE</string>
+    
+    <!-- Threat Levels -->
+    <string name="threat_low">LOW</string>
+    <string name="threat_medium">MEDIUM</string>
+    <string name="threat_high">HIGH</string>
+</resources>
